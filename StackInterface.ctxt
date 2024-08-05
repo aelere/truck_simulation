@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=StackInterface
+comment0.text=\r\n\ Interface\ for\ Stack.\r\n\r\n\ @author\ Lasha\ Geladze\r\n\ @version\ 12/09/2022\r\n
+comment1.params=
+comment1.target=void\ empty()
+comment1.text=\r\n\ Method\ that\ empties\ the\ Stack.\r\n
+comment2.params=
+comment2.target=java.lang.Object\ peek()
+comment2.text=\r\n\ Method\ that\ returns\ the\ head\ Node's\ data.\r\n\ \r\n\ @return\ The\ head\ node's\ data.\r\n
+comment3.params=
+comment3.target=java.lang.Object\ pop()
+comment3.text=\r\n\ Method\ that\ removes\ the\ head\ node\ from\ the\ list,\ reassigning\ head\ to\ the\ next\ node\ (if\ it\ exists).\ \r\n\ \r\n\ @return\ The\ removed\ head\ node's\ data.\r\n
+comment4.params=item
+comment4.target=void\ push(java.lang.Object)
+comment4.text=\r\n\ Method\ that\ pushes\ an\ item\ to\ the\ stack.\ The\ pushed\ item\ becomes\ head,\ while\ the\ previous\ head\ item\ is\ linked\ to\ the\ new\ head\ node.\r\n\ \r\n\ @param\ item\ The\ data\ pushed\ onto\ the\ stack\r\n\r\n
+comment5.params=
+comment5.target=boolean\ isEmpty()
+comment5.text=\r\n\ Method\ that\ checks\ whether\ the\ stack\ is\ empty\ using\ size\ and\ head\ variables.\r\n\ \r\n\ @return\ True\ if\ stack\ is\ empty,\ false\ if\ not.\r\n
+comment6.params=
+comment6.target=int\ size()
+comment6.text=\r\n\ Method\ that\ returns\ the\ amount\ of\ elements\ in\ the\ stack.\r\n\ \r\n\ @return\ The\ amount\ of\ elements\ in\ the\ stack.\r\n
+comment7.params=
+comment7.target=java.lang.Object[]\ toArray()
+comment7.text=\r\n\ Method\ that\ converts\ the\ linked\ stack\ to\ an\ array.\ Head\ node\ is\ the\ last\ element\ in\ this\ representation.\r\n\ \r\n\ @return\ The\ Stack\ turned\ into\ an\ array.\r\n
+numComments=8

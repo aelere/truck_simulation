@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Clock
+comment0.text=\r\n\ File\:\ Clock.java\ <br>\r\n\ Project\:\ CS150\ Project\ 4,\ Fall\ 2022\ <br>\r\n\ Date\:\ 12/09/2022\ <br>\r\n\ E-mail\:\ geladzel@lafayette.edu\ <br>\r\n\ Class\ Description\:\ Creates\ a\ map\ and\ a\ file\ to\ write\ logs\ in.\ Stores\ a\ hour\ int,\ ticks\ it\ off.\ During\ each\ while\ loop\ iteration,\ it\ makes\ all\ the\r\n\ active\ trucks\ do\ action()\ (action\ defined\ in\ truck\ class).\ It\ stores\ an\ active\ and\ passive\ truck\ list.\r\n\ Clock\ creates\ and\ writes\ the\ logs\ to\ the\ txt\ file\u0000.\r\n\r\n\ @author\ Lasha\ Geladze\r\n\ @version\ 12/09/2022\r\n
+comment1.params=warehouseAmount\ truckAmount\ shipmentAmount\ x_size\ y_size
+comment1.target=Clock(int,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ start()
+comment2.text=\r\n\ This\ method\ starts\ the\ actions\ involving\ the\ simulation.\ It\ prints\ out\ warehouses\ and\ shipments\ at\ the\ start,\ and\ goes\ through\ each\ of\ the\ active\ \r\n\ trucks\ with\ a\ while\ loop.\ The\ method\ checks\ whether\ the\ truck\ is\ active\ or\ not\ after\ each\ action\ cycle,\ and\ moves\ them\ to\ a\ passive\ truck\ list.\ When\r\n\ the\ active\ list\ is\ empty,\ the\ program\ terminates.\r\n\ \r\n
+numComments=3

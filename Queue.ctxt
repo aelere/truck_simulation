@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Queue
+comment0.text=\r\n\ DoublyLinkedCollection\ is\ a\ generic\ class\ in\ which\ each\ element\ is\ a\ Node.\ Each\ Node\ (Node\ definied\ within\ this\ class)\ in\ DoublyLinkedCollection\ has\r\n\ references\ to\ two\ other\ nodes\:\ next\ and\ previous.\ Each\ Node\ also\ stores\ data\ that\ is\ given\ by\ the\ user.\ Every\ new\ element\ added\ is\ stored\ at\ the\ front\r\n\ (head)\ of\ the\ Collection.\ Extends\ AbstractCollection<E>.\r\n\r\n\ @author\ Lasha\ Geladze\r\n\ @version\ 10/25/2022\r\n\ \r\n\ @see\ java.util.AbstractCollection\r\n\ @see\ java.util.Iterator\r\n\ @see\ java.util.NoSuchElementException\r\n\ \r\n
+comment1.params=
+comment1.target=java.lang.Object\ element()
+comment2.params=item
+comment2.target=boolean\ add(java.lang.Object)
+comment3.params=
+comment3.target=int\ size()
+comment4.params=
+comment4.target=java.util.Iterator\ iterator()
+comment4.text=\r\n\ The\ iterator\ method\ returns\ an\ annonymous\ MyIterator\ object\ that\ is\ used\ to\ iterate\ through\ the\ List\ by\ the\ methods\r\n\ defined\ in\ the\ AbstractCollection<E>\r\n\ \r\n\ @see\ java.util.AbstractCollection\r\n\ \r\n\ @return\ The\ MyIterator\ that\ goes\ through\ the\ Linked\ list.\r\n
+comment5.params=
+comment5.target=java.lang.Object\ remove()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=java.lang.Object[]\ toArray()
+numComments=8

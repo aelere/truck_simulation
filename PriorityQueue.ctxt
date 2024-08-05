@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PriorityQueue
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PriorityQueue\ here.\r\n\r\n\ @author\ Lasha\ Geladze\r\n\ @version\ 12/4/2022\r\n
+comment1.params=item
+comment1.target=boolean\ add(java.lang.Comparable)
+numComments=2

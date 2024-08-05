@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Simulation
+comment0.text=\r\n\ File\:\ Simulation.java\ <br>\r\n\ Project\:\ CS150\ Project\ 4,\ Fall\ 2022\ <br>\r\n\ Date\:\ 12/07/2022\ <br>\r\n\ E-mail\:\ geladzel@lafayette.edu\ <br>\r\n\ Class\ Description\:\ Simulation\ has\ the\ main\ method.\ It\ creates\ the\ clock\ object\ in\ the\ method.\ Calls\ clock.start();\ Clock\ prints\ all\ the\ information\ to\ \r\n\ the\ log,\ so\ simulation\ does\ not\ have\ to\ track\ it.\ Simulation\ reads\ the\ data\ from\ a\ config\ file\ and\ passes\ it\ to\ the\ clock\ constructor.\u0000\r\n\r\n\ @author\ Lasha\ Geladze\r\n\ @version\ 12/07/2022\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

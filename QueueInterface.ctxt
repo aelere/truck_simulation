@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=QueueInterface
+comment0.text=\r\n\ Interface\ for\ Queue.\r\n\r\n\ @author\ Lasha\ Geladze\r\n\ @version\ 12/09/2022\r\n
+comment1.params=
+comment1.target=java.lang.Object\ element()
+comment1.text=\r\n\ Method\ that\ returns\ the\ head\ node's\ data.\r\n\ \r\n\ @return\ Head\ node\ data.\r\n
+comment2.params=item
+comment2.target=boolean\ add(java.lang.Object)
+comment2.text=\r\n\ The\ add\ method\ creates\ a\ node\ by\ the\ data\ given\ by\ the\ user.\ Then,\ it\ puts\ the\ new\ Node\ at\ the\ beginning\ of\ the\ list\ which\ becomes\ the\ new\ \r\n\ head\ node.\ Increments\ size.\ Returns\ true\ if\ the\ addition\ was\ successful.\r\n\ \r\n\ @param\ item\ The\ data\ given\ by\ the\ user.\r\n\ \r\n\ @return\ True\ if\ addition\ was\ successful.\r\n
+comment3.params=
+comment3.target=int\ size()
+comment3.text=\r\n\ The\ size\ method\ the\ size\ of\ the\ collection.\r\n\ \r\n\ @return\ The\ size\ of\ the\ collection.\r\n
+comment4.params=
+comment4.target=java.lang.Object\ remove()
+comment4.text=\r\n\ Method\ that\ removes\ the\ head\ element\ of\ the\ Queue.\r\n
+comment5.params=
+comment5.target=java.lang.Object[]\ toArray()
+comment5.text=\r\n\ Method\ that\ converts\ the\ linked\ quque\ to\ an\ array.\ Head\ node\ is\ the\ last\ element\ in\ this\ representation.\r\n\ \r\n\ @return\ The\ Queue\ turned\ into\ an\ array.\r\n
+numComments=6

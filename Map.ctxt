@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Map
+comment0.text=\r\n\ File\:\ Map.java\ <br>\r\n\ Project\:\ CS150\ Project\ 4,\ Fall\ 2022\ <br>\r\n\ Date\:\ 12/09/2022\ <br>\r\n\ E-mail\:\ geladzel@lafayette.edu\ <br>\r\n\ Class\ Description\:\ The\ map\ creates\ given\ amount\ of\ warehouses\ at\ random\ locations\ (takes\ warehousenum,\ \ and\ stores\ them\ in\ an\ array\ based\ on\ their\ ID.\r\n\ Then,\ the\ trucks\ are\ placed\ in\ random\ warehouses.\ With\ trucks,\ manifests\ are\ created,\ which\ places\ shipments\ in\ random\ warehouses.\ Map\ stores\ active\ \r\n\ trucks\ and\ passes\ it\ to\ Clock.\r\n\r\n\ @author\ Lasha\ Geladze\r\n\ @version\ 12/09/2022\r\n
+comment1.params=x_size\ y_size\ warehouseAmount\ truckAmount\ maxShipmentAmount
+comment1.target=Map(int,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=java.util.ArrayList\ getWarehouseList()
+comment3.params=
+comment3.target=java.util.ArrayList\ getTruckList()
+numComments=4
